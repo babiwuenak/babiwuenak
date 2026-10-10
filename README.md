@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.jpg" alt="Babiwuenak — Building useful software" width="100%" />
+  <img src="./profile-banner.jpg" alt="Babiwuenak — Building useful software" width="100%" />
 </p>
 
 <p align="center">

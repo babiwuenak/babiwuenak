@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./profile-banner.jpg" alt="Babiwuenak — Building useful software" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://github.com/babiwuenak">
